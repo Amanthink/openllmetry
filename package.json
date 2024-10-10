@@ -10,6 +10,6 @@
     "nx-cloud": "latest"
   },
   "workspaces": [
-    "packages/*"
+    "packages/*
   ]
 }
